@@ -80,3 +80,50 @@ if (check_prime(7)):
 # test the function, 6 should NOT be prime
 if (not check_prime(6)):
   print("6 is NOT prime")
+  
+  
+#    A prime number is a natural number 
+#    greater than 1 with only two factors:
+#    the number 1 and the number itself.
+#
+#
+#    Natural numbers: 1, 2, 3, ...
+#
+#
+#    A factor is a number that divides
+#    another number with no remainder.
+#
+#
+#    So 3 is a factor of 6 because:
+#
+#      6 / 3 = 2 with 0 remainder
+#
+#    But 3 is NOT a factor of 7 because:
+#
+#      7 / 3 = 2 with 1 remainder
+#
+#
+#    A prime number is a natural number 
+#    greater than 1 with only two factors:
+#    the number 1 and the number itself.
+#
+#
+#    Check if 6 is prime...
+#
+#    6 / 2 = 3 remainder 0 - 6 is NOT prime 
+#    6 / 3 = 2 remainder 0 - 6 is NOT prime
+#    6 / 4 = 1 remainder 2
+#    6 / 5 = 1 remainder 1
+#
+#   
+#    Check if 7 is prime...
+#
+#    7 / 2 = 3 remainder 1
+#    7 / 3 = 2 remainder 1
+#    7 / 4 = 1 remainder 3
+#    7 / 5 = 1 remainder 2
+#    7 / 6 = 1 remainder 1
+#  
+#    Because there are NO factors between
+#    2 .. 6 we can say that 7 IS prime!
+#    
