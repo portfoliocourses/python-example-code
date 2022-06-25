@@ -5,7 +5,8 @@
 # Description: An implementation of the Template Method Design Pattern in 
 # Python.  See the Wikipedia article for details on the template method design 
 # pattern: https://en.wikipedia.org/wiki/Template_method_pattern.  The template 
-# method design pattern is a potential fix to the call super anti-pattern.
+# method design pattern is a potential fix to the call super anti-pattern, see 
+# the YouTube lesson for an example.
 #
 # YouTube Lesson: https://www.youtube.com/watch?v=BBlaDMqV8ks
 #
