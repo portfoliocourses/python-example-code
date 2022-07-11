@@ -6,7 +6,7 @@
 # angles have been provided from user input with C++.  The program utilizes the 
 # property that the sum of the angles of a triangle must equal 180 degrees.
 #
-# YouTube Lesson: https://www.youtube.com/watch?v=eBcMm_V1LLA 
+# YouTube Lesson: https://www.youtube.com/watch?v=XWGJQ8CzRls 
 #
 # Author: Kevin Browne @ https://portfoliocourses.com
 #
