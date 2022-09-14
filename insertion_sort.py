@@ -28,7 +28,7 @@ def insertion_sort(list):
     # as identified by index i.
     key = list[i]
     
-    # The inner loop will shift the key into its correct position in the 
+    # The inner loop will help shift the key into its correct position in the 
     # sorted portion of the list (which could be at the very beginning of the 
     # list if it is smaller than all elements in the sorted portion of the 
     # list).  We do this by examining each element in the sorted portion of
