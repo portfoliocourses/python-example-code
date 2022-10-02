@@ -46,6 +46,10 @@ print("  a // b =", a // b)
 # floor division rounds down to the next LOWEST integer, and the next lowest
 # integer from -2.5 is -3, -2 would be the next highest integer.  This
 # behavior can sometimes confuse people as they expect // to round towards zero.
+# Also note that in the below example that -b is using the negation operator to
+# get the negation of b, the negation operator is a 'unary operator' because it
+# is applied only to one operand.
+#
 print(" a // -b =", a // -b)
 
 # Create variables 'c' and 'd' and set them to 4 and 5 so we can test out the
