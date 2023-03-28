@@ -2,7 +2,7 @@
 #
 # Program: Find The Largest Number In A File
 #
-# Description: Find the largest number in a file usinh Python.
+# Description: Find the largest number in a file using Python.
 #
 # YouTube Lesson: https://www.youtube.com/watch?v=Z89BKMDJPGI
 #
