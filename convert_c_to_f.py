@@ -22,7 +22,7 @@ celsius = float(input("Temperature (C): "))
 fahrenheit = celsius * 1.8 + 32
 
 # Output the temperature in Fahrenheit
-print("Temperature(F):", fahrenheit)
+print("Temperature (F):", fahrenheit)
 
 # Alternatively, we could use an f-string to output the temperature with 
 # 2 decimal digits of precision.
