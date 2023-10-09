@@ -4,7 +4,7 @@
 #
 # Description: Example of using the nonlocal keyword in Python.
 #
-# YouTube Lesson: https://www.youtube.com/watch?v=27S2qRdH2rM 
+# YouTube Lesson: https://www.youtube.com/watch?v=27S2qRdH2rM
 #
 # Author: Kevin Browne @ https://portfoliocourses.com
 #
