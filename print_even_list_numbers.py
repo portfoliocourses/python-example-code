@@ -2,7 +2,7 @@
 #
 # Program: Print Even Numbers In A List
 #
-# Description: A program to compute the even numbers in a list using Python.
+# Description: A program to print the even numbers in a list using Python.
 #
 # YouTube Lesson: https://www.youtube.com/watch?v=jWsx8C_uVCo
 #
