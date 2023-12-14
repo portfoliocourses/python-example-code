@@ -1,6 +1,6 @@
 ################################################################################
 #
-# Program: Print Event Numbers In A List
+# Program: Print Even Numbers In A List
 #
 # Description: A program to compute the even numbers in a list using Python.
 #
