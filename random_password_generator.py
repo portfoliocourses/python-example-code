@@ -43,7 +43,7 @@ for i in range(length):
 # which is a character chosen at random from chars (technically, each element
 # is a string of one character).  The join string method will then join these
 # string together, separated by '' nothing, to give us our password.
-password = ''.join([random.choice(chars) for i i range(length)])
+password = ''.join([random.choice(chars) for i in range(length)])
 
 # Output the randomly generated password
 print("Your random password is:", password)
