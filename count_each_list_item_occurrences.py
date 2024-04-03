@@ -4,7 +4,7 @@
 #
 # Description: Count the occurrences of each item (value) in a list with Python.
 #
-# YouTube Lesson: https://www.youtube.com/watch?v=GiF1tm37UEs 
+# YouTube Lesson: https://www.youtube.com/watch?v=TOkSElso_Fk 
 #
 # Author: Kevin Browne @ https://portfoliocourses.com
 #
