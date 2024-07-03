@@ -10,7 +10,7 @@
 #
 ################################################################################
 
-# A positive number is a numbe greater than 0.  Here we have a list of numbers
+# A positive number is a number greater than 0.  Here we have a list of numbers
 # with 4 positive numbers 67, 78, 33 and 82. 
 numbers_list = [-45,0,67,78,33,-45,82] 
 
