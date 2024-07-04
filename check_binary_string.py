@@ -25,7 +25,7 @@ binary = input("Enter Binary Number: ")
 # the list comprehension will contain only True items ONLY if the string is 
 # made up of only '0' and '1' digits (characters).  And thus the all() function
 # will only return True in this case as well, allowing us to verify if the 
-# the string is a binary string or not!  
+# entered string is a binary string or not!  
 #
 if all([True if c in "01" else False for c in binary]):
     print("Binary String")
