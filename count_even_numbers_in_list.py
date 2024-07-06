@@ -14,7 +14,7 @@
 # Returns the number of even numbers in numbers_list
 def count_even(numbers_list):
 
-    # An even number is an integer which is divisible by 2, i.e. i we take the 
+    # An even number is an integer which is divisible by 2, i.e. we take the 
     # number and divide it by 2 we should have a remainder of 0.  The modulus 
     # operator % will give us the remainder of a division operation.
     #
