@@ -5,7 +5,7 @@
 # Description: Program to count the number of even and odd numbers in a list 
 # using Python.
 #
-# YouTube Lesson: https://www.youtube.com/watch?v=ttJ5R5HzNw8 
+# YouTube Lesson: https://www.youtube.com/watch?v=CGSzvzi6W5w 
 #
 # Author: Kevin Browne @ https://portfoliocourses.com
 #
